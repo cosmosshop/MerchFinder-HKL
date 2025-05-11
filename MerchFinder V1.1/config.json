@@ -1,0 +1,10 @@
+{
+    "confidence": 0.7675879396984925,
+    "scan_time": 0.8,
+    "window_focus": false,
+    "sound_enabled": true,
+    "tb_window_name": "Total Battle",
+    "image_folder": "final_images",
+    "sound_file": "sounds\\eep-02.wav",
+    "language": "tr"
+}
